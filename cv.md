@@ -16,3 +16,5 @@ Informational Technology, Management Information Systems, Electrotechnical Facul
  
 ### TECHNICAL SKILLS   
 Java, Android Studio, SQL, XML, Git, OBS
+### INTERESTS    
+Traveling, Sport, Music, Codding.
