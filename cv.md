@@ -13,8 +13,7 @@ Informational Technology, Management Information Systems, Electrotechnical Facul
 * Russian, Belarusian (native languages)  
 * English (B1) 
 * Hebrew (סיימתי אולפן א)
- 
 ### TECHNICAL SKILLS   
-Java, Android Studio, SQL, XML, Git, OBS
+Java, Kotlin, Android Studio, SQL, XML, Git, OBS
 ### INTERESTS    
 Traveling, Sport, Music, Codding.
