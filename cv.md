@@ -33,6 +33,16 @@ and team-working skills, multitasking, leadership, flexibility.
 
 ## INTERESTS    
 Traveling, Sport, Music, Codding.
+## PERSONAL QUALITIES
+Willingness to learn something new and improve, analytical thinking,  
+result oriented, stress-resistant, deadline respect, strong communication  
+and team-working skills, multitasking, leadership, flexibility.
+
+## INTERESTS    
+Traveling, Sport, Music, Codding.
+
+## INTERESTS    
+Traveling, Sport, Music, Codding.
 
 ## MY PROJECTS
 - https://github.com/mixaefes/PetsAppRoom
