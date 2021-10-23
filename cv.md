@@ -9,6 +9,7 @@ and team-working skills, multitasking, leadership, flexibility.
 ### EDUCATION
 2009 – 2015 Belarusian-Russian University  
 Informational Technology, Management Information Systems, Electrotechnical Faculty.
+2021 - ... RsSchool Android
 ### LANGUAGES
 * Russian, Belarusian (native languages)  
 * English (B1) 
