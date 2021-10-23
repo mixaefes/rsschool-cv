@@ -3,9 +3,9 @@ I am interested in everything related to **Android** development
  and this page is about me..
 
 ## How to reach me
-i'm live in: Israel, Qiryat-Gat
-my mobile: +972 53 892 63 01  
-my E-mail: [mixaefes@gmail.com](mailto:mixaefes@gmail.com), [mixaefes@mail.ru](mailto:mixaefes@mail.ru)
+- i'm live in: Israel, Qiryat-Gat
+- my mobile: +972 53 892 63 01  
+- my E-mail: [mixaefes@gmail.com](mailto:mixaefes@gmail.com), [mixaefes@mail.ru](mailto:mixaefes@mail.ru)
 
 ## EDUCATION
 
