@@ -25,3 +25,9 @@ Informational Technology, Management Information Systems, Electrotechnical Facul
 - SQL
  - XML
 - Git
+## PERSONAL QUALITIES
+Willingness to learn something new and improve, analytical thinking,  
+result oriented, stress-resistant, deadline respect, strong communication  
+and team-working skills, multitasking, leadership, flexibility.
+### INTERESTS    
+Traveling, Sport, Music, Codding.
