@@ -25,9 +25,23 @@ Informational Technology, Management Information Systems, Electrotechnical Facul
 - SQL
  - XML
 - Git
+
 ## PERSONAL QUALITIES
 Willingness to learn something new and improve, analytical thinking,  
 result oriented, stress-resistant, deadline respect, strong communication  
 and team-working skills, multitasking, leadership, flexibility.
-### INTERESTS    
+## INTERESTS    
 Traveling, Sport, Music, Codding.
+## PERSONAL QUALITIES
+Willingness to learn something new and improve, analytical thinking,  
+result oriented, stress-resistant, deadline respect, strong communication  
+and team-working skills, multitasking, leadership, flexibility.
+
+## INTERESTS    
+Traveling, Sport, Music, Codding.
+
+## MY PROJECTS
+- https://github.com/mixaefes/PetsAppRoom
+- https://github.com/mixaefes/CatsApiEfes
+- https://github.com/mixaefes/RSShool2021-Android-task-Pomodoro
+
