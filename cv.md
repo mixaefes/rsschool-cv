@@ -34,7 +34,6 @@ and team-working skills, multitasking, leadership, flexibility.
 ## INTERESTS    
 Traveling, Sport, Music, Codding.
 
-
 ## MY PROJECTS
 - https://github.com/mixaefes/PetsAppRoom
 - https://github.com/mixaefes/CatsApiEfes
